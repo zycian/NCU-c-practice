@@ -72,4 +72,7 @@ void swap(void* p1, void* p2, int len)//len来记录类型长度
 		pc1++;//pc1/2是指针，也就是每个字节的地址
 		pc2++;
 	}
+	printf("随便加一行\n");
 }
+
+//新加一行试试
