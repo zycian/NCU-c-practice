@@ -1,0 +1,30 @@
+# ===== VS 编译产物（不上传） =====
+x64/
+*.obj
+*.exe
+*.pdb
+*.tlog
+*.log
+*.idb
+*.lastbuildstate
+*.ipdb
+*.iobj
+*.recipe
+*.pch
+
+# ===== VS 用户配置（每台电脑不同，别上传） =====
+.vs/
+*.user
+*.suo
+
+# ===== 系统杂项 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# ===== AI 工具自己的目录（绝不上传） =====
+.codebuddy/
+
+# ===== 备注 =====
+# 保留并上传：study.slnx / Project1/ 目录 / 所有 *.c / 学习进度.md

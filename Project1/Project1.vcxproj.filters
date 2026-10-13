@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileName.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P90-练习-三角形面积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P91-练习-time函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P92-练习-随机数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P102-练习-数组综合.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组1--数组求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组2--数组反转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组3--打乱数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组4--二分查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组5--插值查找.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组6--冒泡序列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组7--选择排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针1--理解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针作用1+2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针作用3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="学习进度.md" />
+  </ItemGroup>
+</Project>
