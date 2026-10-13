@@ -90,6 +90,9 @@
     <ClCompile Include="指针计算.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="学习进度.md" />
