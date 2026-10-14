@@ -15,5 +15,9 @@ int main()
 	//检验此时p的值
 	printf("%p\n", p);
 
+	printf("%p\n", arr );
+	printf("%p\n", arr+1);
+	printf("%p\n", &arr );
+	printf("%p\n", &arr + 1);
 	return 0;
 }
