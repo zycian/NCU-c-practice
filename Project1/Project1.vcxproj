@@ -153,6 +153,7 @@
     <ClCompile Include="FileName2.c" />
     <ClCompile Include="FileName3.c" />
     <ClCompile Include="FileName5.c" />
+    <ClCompile Include="二维数组的遍历.c" />
     <ClCompile Include="指针1--理解.c" />
     <ClCompile Include="指针作用1+2.c" />
     <ClCompile Include="指针作用3.c" />

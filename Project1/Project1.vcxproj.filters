@@ -93,6 +93,9 @@
     <ClCompile Include="数组指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二维数组的遍历.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="学习进度.md" />
