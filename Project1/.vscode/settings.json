@@ -1,0 +1,19 @@
+{
+    "files.encoding": "gb18030",
+    "files.autoGuessEncoding": false,
+    "files.eol": "\r\n",
+    "files.autoSave": "onWindowChange",
+    "git.decorations.enabled": false,
+    "[c]": {
+        "files.encoding": "gb18030"
+    },
+    "[cpp]": {
+        "files.encoding": "gb18030"
+    },
+    "[json]": {
+        "files.encoding": "utf8"
+    },
+    "[jsonc]": {
+        "files.encoding": "utf8"
+    }
+}

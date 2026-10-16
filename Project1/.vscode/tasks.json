@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "gcc 编译当前文件",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "-finput-charset=gbk",
+                "-fexec-charset=utf-8",
+                "${file}",
+                "-o",
+                "${fileDirname}\\a.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared",
+                "clear": true
+            },
+            "detail": "使用 MinGW-w64 的 gcc 编译当前打开的文件（已指定 GBK 编码）"
+        }
+    ]
+}
