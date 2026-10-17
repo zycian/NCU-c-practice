@@ -99,8 +99,22 @@
     <ClCompile Include="函数指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="学习进度.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

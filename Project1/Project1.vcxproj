@@ -140,9 +140,12 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1game.c" />
+    <ClCompile Include="1test.c" />
     <ClCompile Include="4.c" />
     <ClCompile Include="6.c" />
     <ClCompile Include="7.c" />
+    <ClCompile Include="8.c" />
     <ClCompile Include="9.c" />
     <ClCompile Include="P90-练习-三角形面积.c" />
     <ClCompile Include="P91-练习-time函数.c" />
@@ -171,6 +174,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="学习进度.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
